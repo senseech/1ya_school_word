@@ -37,8 +37,8 @@ public class Search_word {
             if (arrayList.get(i) == "") System.out.println("absent");
             else System.out.println(arrayList.get(i));
         }
-        System.out.println(string_1);
-        System.out.println(string_2);
+//        System.out.println(string_1);
+//        System.out.println(string_2);
 
     }
     public static String ChangeCharInPosition(int position, char ch, String str){
